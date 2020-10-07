@@ -61,7 +61,7 @@ Singh, S. Ourselin, S. J. West, and A. E. Desjardins "Enhancing photoacoustic vi
 * "Non-local means de-noising of photoacoustic images acquired from human peripheral vasculature in vivo with light-emitting diode arrays", SPIE Photonics West BiOS, 2019
 
 ## Other
-* MICCAI Educational Challenge 2020 Finalist: "Introduction to Medical Image Registration using DeepReg, between Old and New", [Jupyter Notebook](https://colab.research.google.com/github/DeepRegNet/DeepReg/blob/main/docs/Intro_to_Medical_Image_Registration.ipynb)
+* MICCAI Educational Challenge 2020 Winner: "Introduction to Medical Image Registration using DeepReg, between Old and New", [Jupyter Notebook](https://colab.research.google.com/github/DeepRegNet/DeepReg/blob/main/docs/Intro_to_Medical_Image_Registration.ipynb)
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=lCbkLx4AAAAJ&hl=en) -->
 
@@ -110,7 +110,7 @@ Led the unit testing team to perform QA of repository prior to release and submi
 `June 2016 - 2019` UCL Sports Awards | Ultimate Frisbee
 * `June 2019` UCL Cap: Awarded annually to individual sportsmen/women who have represented their
 country in any sport. 
-* `June 2018` UCL Centenary: 4 years or more of dedicated service to one or more sports club(s) at UCLU.
+* `June 2019` UCL Centenary: 4 years or more of dedicated service to one or more sports club(s) at UCLU.
 * `June 2017` UCL Colours: 2 years exemplary service to one or more sports club(s) at UCLU. 
 * `June 2016` UCL Commendation: 1 year exemplary service to one or more sports club(s) at UCLU. 
 <!-- ### Footer
