@@ -1,7 +1,3 @@
----
-layout: cv
-title: Nina Montaña Brown's CV
----
 # Nina Montaña Brown
 MPhil/PhD Medical Imaging candidate, **Computer Assisted Surgery (COMPASS) Group**
 
@@ -12,6 +8,8 @@ Dept. of Medical Physics and Biomedical Engineering, University College London
 <div id="webaddress">
  <a href="https://scholar.google.com/citations?user=lCbkLx4AAAAJ&hl=en">Google Scholar</a> | <a href="https://github.com/NMontanaBrown">GitHub</a> | <a href="https://www.researchgate.net/profile/Nina_Montana_Brown">ResearchGate</a> | 
 </div>
+
+<a class="mailto" href="mailto:nina.brown.15@ucl.ac.uk">Mail</a>
 
 [Education](#Education) | [Awards](#Awards) | [Publications](#Publications) | [Academic Experience](#Academic-Experience) | [Professional Experience](#Professional-Experience) | [Open Source Contributions](#Open-Source-Contributions) | [Other Activities](#Other-Activities)
 
@@ -30,24 +28,10 @@ Dept. of Medical Physics and Biomedical Engineering, University College London
 * Supervisors: Dr. Erwin Alles, Prof. Adrien Desjardins
 * 1:1 (First Class) Honours // 4.0 GPA
 
-# Awards
-## Grants, Fellowships & Scholarships
-`Sept. 2019 - Sept. 2024` **CDT i4Health Studentship** | University College London | London, UK | *£86000*
-
-The new i4health CDT will train the UK’s future leaders in next-generation medical imaging research, development and enterprise, to produce intelligent, radical healthcare innovations focused on either imaging or imaging-enabled systems.
-* Thesis: "Intelligent Interventional Ultrasound Fusion and Guidance"
-* Supervisors: Dr. Matt J. Clarkson, Dr. Yipeng Hu
-
-`Jun. 2017 - August. 2017` **EPSRC Vacation Bursary Recipient** | University College London | London, UK | *£4500*
-
-The EPSRC provides funding for undergraduate students to gain first hand positive and practical experience of research in a UK university through a vacation bursary. One of 15 vacation bursars chosen in the UK.
-* Project: "Ultrasonic Stimulation of Neurons using Photoacoustic Excitation of Carbon Nanotube-PDMS Composites"
-* Supervisors: Prof. Adrien Desjardins (UCL), Dr. A. Jerusalem (Oxford)
-
 # Publications
 
 ## Journals
-* Y. Fu, **N. Montana Brown**, S. Saeed, A. Casamitjana, Z. Baum, R. Delaunay, Q. Yang, A. Grimwood, Z. Min, J. Iglesias, D. Barratt, E. Bonmati, M. Clarkson, T. Vercauteren, Y. Hu. "DeepReg: a deep learning toolkit for medical image registration," The Journal of Open Source Software (2020) (In Review)
+* Y. Fu, **N. Montana Brown**, S. Saeed, A. Casamitjana, Z. Baum, R. Delaunay, Q. Yang, A. Grimwood, Z. Min, J. Iglesias, D. Barratt, E. Bonmati, M. Clarkson, T. Vercauteren, Y. Hu. "DeepReg: a deep learning toolkit for medical image registration," The Journal of Open Source Software, 5(55), 2705, (2020) doi: https://doi.org/10.21105/joss.02705
 
 ## Conference Papers
 * W. Xia, E. Maneas, N. T. Huynh, M. K. A. Singh, **N. Montana Brown**, S. Ourselin, E. Gilbert-Kawai, S. J. West, and A. E.
@@ -65,20 +49,11 @@ Singh, S. Ourselin, S. J. West, and A. E. Desjardins "Enhancing photoacoustic vi
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=lCbkLx4AAAAJ&hl=en) -->
 
-# Academic Experience
-
-## Teaching Experience
-
-*Dept. of Medical Physics and Biomedical Engineering, University College London*
-
-* `Autumn 2019, Autumn 2020` - MPHY0020 Computing in Medicine
-* `Autumn 2020` - MPHY0041 Research Software Engineering in Python
-
-## Invited Presentations
-
-2019, N Montana Brown, "Robust and automatic image registration for 2D all-optical ultrasound imaging", DKFZ CAMI, Heidelberg, Germany.
-
 # Professional Experience
+
+`Nov 2020 - present` Verdure Imaging Inc. | AI Software Developer and Consultant
+
+Building, evaluating and testing AI diagnostic solutions for ultrasound data.
 
 `July - Aug 2018` CYBERDYNE Inc | Software Development Internship
 
@@ -101,7 +76,35 @@ Parametrized factory software (ARMA+) to make the object to machine assigning pr
 # Open Source Contributions
 `June 2020 - present` DeepReg | Core Developers Team Member, QA and Testing | [DeepReg Repository](https://github.com/DeepRegNet/DeepReg)
 
-Led the unit testing team to perform QA of repository prior to release and submission for publication in October 2020.
+Core developer and maintainer of repository. Led the unit testing team to perform QA of repository prior to release and submission for publication in October 2020. Prepared a MICCAI Educational Challenge 2020 submission which was selected as a finalist and voted winner via a popular vote.
+
+# Awards
+## Grants, Fellowships & Scholarships
+`Sept. 2019 - Sept. 2024` **CDT i4Health Studentship** | University College London | London, UK | *~£110,000*
+
+The new i4health CDT will train the UK’s future leaders in next-generation medical imaging research, development and enterprise, to produce intelligent, radical healthcare innovations focused on either imaging or imaging-enabled systems.
+* Thesis: "Intelligent Interventional Ultrasound Fusion and Guidance"
+* Supervisors: Dr. Matt J. Clarkson, Dr. Yipeng Hu (UCL)
+
+`Jun. 2017 - August. 2017` **EPSRC Vacation Bursary Recipient** | University College London | London, UK | *£4500*
+
+The EPSRC provides funding for undergraduate students to gain first hand positive and practical experience of research in a UK university through a vacation bursary. One of 15 vacation bursars chosen in the UK.
+* Project: "Ultrasonic Stimulation of Neurons using Photoacoustic Excitation of Carbon Nanotube-PDMS Composites"
+* Supervisors: Prof. Adrien Desjardins (UCL), Dr. A. Jerusalem (Oxford)
+
+# Academic Experience
+
+## Teaching Experience
+
+*Dept. of Medical Physics and Biomedical Engineering, University College London*
+
+* `Autumn 2019, Autumn 2020` - MPHY0020 Computing in Medicine
+* `Autumn 2020` - MPHY0041 Research Software Engineering in Python
+* `Autumn 2019 - present` - Peergrade Moodle Learning Tool Developer
+
+## Invited Presentations
+
+2019, N Montana Brown, "Robust and automatic image registration for 2D all-optical ultrasound imaging", DKFZ CAMI, Heidelberg, Germany.
 
 # Other Activities
 
@@ -115,6 +118,6 @@ country in any sport.
 * `June 2016` UCL Commendation: 1 year exemplary service to one or more sports club(s) at UCLU. 
 <!-- ### Footer
 
-Last updated: 4/10/20 -->
+Last updated: 10/11/20 -->
 
 
