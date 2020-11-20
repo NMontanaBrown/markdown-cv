@@ -106,6 +106,9 @@ The EPSRC provides funding for undergraduate students to gain first hand positiv
 
 2019, N Montana Brown, "Robust and automatic image registration for 2D all-optical ultrasound imaging", DKFZ CAMI, Heidelberg, Germany.
 
+## Journal Reviews (ad hoc)
+* `2020 - present` IEEE Transactions on Medical Imaging
+
 # Other Activities
 
 `September 2019 - present` Spanish National Women's Ultimate Frisbee Team
