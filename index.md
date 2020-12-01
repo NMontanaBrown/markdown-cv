@@ -108,6 +108,7 @@ The EPSRC provides funding for undergraduate students to gain first hand positiv
 
 ## Journal Reviews (ad hoc)
 * `2020 - present` IEEE Transactions on Medical Imaging
+* `2020 - present` Journal of Open Source Software
 
 # Other Activities
 
