@@ -32,7 +32,7 @@ Dept. of Medical Physics and Biomedical Engineering, University College London
 # Publications
 
 ## Journals
-**N. Montana-Brown**, J. Ramalhinho, M. Allan, B. Davidson, Y. Hu, and M. Clarkson, "Vessel Segmentation for Automatic Registration of Untracked Laparoscopic Ultrasound to CT of the Liver", Int J CARS (2021). https://doi.org/10.1007/s11548-021-02400-6
+* **N. Montana-Brown**, J. Ramalhinho, M. Allan, B. Davidson, Y. Hu, and M. Clarkson, "Vessel Segmentation for Automatic Registration of Untracked Laparoscopic Ultrasound to CT of the Liver", Int J CARS (2021). https://doi.org/10.1007/s11548-021-02400-6
 
 * Y. Fu, **N. Montana Brown**, S. Saeed, A. Casamitjana, Z. Baum, R. Delaunay, Q. Yang, A. Grimwood, Z. Min, J. Iglesias, D. Barratt, E. Bonmati, M. Clarkson, T. Vercauteren, Y. Hu. "DeepReg: a deep learning toolkit for medical image registration," The Journal of Open Source Software, 5(55), 2705, (2020) doi: https://doi.org/10.21105/joss.02705
 
