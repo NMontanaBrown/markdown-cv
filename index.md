@@ -21,6 +21,7 @@ Dept. of Medical Physics and Biomedical Engineering, University College London
 
 `Sept. 2019 - Sept. 2020` **MRes Medical Imaging** | University College London | London, UK
 * Thesis: "Vessel Segmentation of Laparoscopic Liver Ultrasound using Convolutional Neural Networks"
+* Classification: Distinction
 * Supervisors: Dr. Matt J. Clarkson, Dr. Yipeng Hu
 
 `Sept. 2015 - June. 2019` **MSci Medical Physics** | University College London | London, UK
@@ -31,9 +32,15 @@ Dept. of Medical Physics and Biomedical Engineering, University College London
 # Publications
 
 ## Journals
+**N. Montana-Brown**, J. Ramalhinho, M. Allan, B. Davidson, Y. Hu, and M. Clarkson, "Vessel Segmentation for Automatic Registration of Untracked Laparoscopic Ultrasound to CT of the Liver", Int J CARS (2021). https://doi.org/10.1007/s11548-021-02400-6
+
 * Y. Fu, **N. Montana Brown**, S. Saeed, A. Casamitjana, Z. Baum, R. Delaunay, Q. Yang, A. Grimwood, Z. Min, J. Iglesias, D. Barratt, E. Bonmati, M. Clarkson, T. Vercauteren, Y. Hu. "DeepReg: a deep learning toolkit for medical image registration," The Journal of Open Source Software, 5(55), 2705, (2020) doi: https://doi.org/10.21105/joss.02705
 
 ## Conference Papers
+
+* **N. Montana-Brown**, J. Ramalhinho, M. Allan, B. Davidson, Y. Hu, and M. Clarkson, "Vessel Segmentation for Automatic Registration of Untracked Laparoscopic Ultrasound to CT of the Liver", IPCAI 2021.
+  * Awarded the "Audience Choice for Best Innovation: Honorary Mention"
+
 * W. Xia, E. Maneas, N. T. Huynh, M. K. A. Singh, **N. Montana Brown**, S. Ourselin, E. Gilbert-Kawai, S. J. West, and A. E.
 Desjardins "Imaging of human peripheral blood vessels during cuff occlusion with a compact LED- based photoacoustic and ultrasound system ", Proc. SPIE 10878, Photons Plus Ultrasound: Imaging and Sensing 2019, 1087804 (2019); doi:
 0.1117/12.2509666;
@@ -77,6 +84,9 @@ Parametrized factory software (ARMA+) to make the object to machine assigning pr
 `June 2020 - present` DeepReg | Core Developers Team Member, QA and Testing | [DeepReg Repository](https://github.com/DeepRegNet/DeepReg)
 
 Core developer and maintainer of repository. Led the unit testing team to perform QA of repository prior to release and submission for publication in October 2020. Prepared a MICCAI Educational Challenge 2020 submission which was selected as a finalist and voted winner via a popular vote.
+
+# Skills and Courses
+* `March 2021`:  UCL RITS & DiRAC NVIDIA AI Bootcamp
 
 # Awards
 ## Grants, Fellowships & Scholarships
@@ -122,6 +132,6 @@ country in any sport.
 * `June 2016` UCL Commendation: 1 year exemplary service to one or more sports club(s) at UCLU. 
 <!-- ### Footer
 
-Last updated: 10/11/20 -->
+Last updated: 03/07/21 -->
 
 
